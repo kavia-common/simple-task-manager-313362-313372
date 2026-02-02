@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-task-manager-313362-313372/todo_backend"
+}
